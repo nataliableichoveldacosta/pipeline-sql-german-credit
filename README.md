@@ -124,7 +124,6 @@ Examples of metrics generated in the Gold layer:
 
 1️⃣ Create the database
 
-Run:
 sql/00_setup/00_create_database.sql
 
 2️⃣ Create the Bronze table:
