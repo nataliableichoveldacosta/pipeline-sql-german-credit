@@ -44,4 +44,22 @@ Source: Kaggle
 A sample dataset is included in the `data/` folder.
 
 ## SQL Structure
+sql/
+00_setup → create database
+01_bronze → raw table creation
+02_silver → data cleaning
+03_gold → analytical tables
 
+
+## Example Analysis
+
+Example metric built in the Gold layer:
+
+- Average credit amount by loan purpose
+- Credit metrics by age
+- Credit metrics by checking account type
+
+## Author
+
+Natália Bleichovel  
+Data Analytics / Data Science
