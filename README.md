@@ -41,7 +41,7 @@ Gold (analytical tables)
 German Credit Dataset  
 Source: Kaggle
 
-A sample dataset is included in the `data/` folder.
+The German Credit dataset used in this project is included in the `data/` folder.
 
 ## SQL Structure
 sql/
