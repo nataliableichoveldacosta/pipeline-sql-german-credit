@@ -128,6 +128,7 @@ Run:
 sql/00_setup/00_create_database.sql
 
 2️⃣ Create the Bronze table:
+
 sql/01_bronze/01_create_bronze_table.sql
 
 3️⃣ Run the Silver transformation:
