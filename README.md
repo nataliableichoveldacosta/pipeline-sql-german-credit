@@ -138,7 +138,9 @@ sql/02_silver/01_clean_silver.sql
 4️⃣ Generate Gold analytics tables:
 
 sql/03_gold/01_credit_metrics.sql
+
 sql/03_gold/02_credit_by_age.sql
+
 sql/03_gold/03_credit_by_account.sql
 
 ---
